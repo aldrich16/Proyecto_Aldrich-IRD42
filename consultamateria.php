@@ -84,7 +84,7 @@
   </a>
 </td>
 <td>
-<a type="submit" class="btn btn-outline-success" href="eliminaramateria.php?matricula=<?php echo $row['matricula'];?>">
+<a type="submit" class="btn btn-outline-success" href="eliminarmateria.php?matricula=<?php echo $row['matricula'];?>">
     <img src="https://www.vippng.com/png/detail/480-4804163_utiles-escolares-animados-escolar-animado-goma-de-borrar.png"width="50px" height="50px">
   </a>
 </td>
